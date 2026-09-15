@@ -1,6 +1,6 @@
 # Assistente Médico Virtual — Tech Challenge Fase 3 (Pós Tech IA)
 
-**Repositório:** https://github.com/Misadri2/medical-assistant-ai
+**Repositório:** https://github.com/Misadri2/medical-assistant-ai2
 **Adapter LoRA fine-tunado (Hugging Face Hub):** https://huggingface.co/Misadri1984/medassist-lora-adapter
 
 Assistente virtual médico treinado com dados internos do hospital
@@ -99,7 +99,7 @@ medical-assistant-ai/
 
 ```bash
 # 1) Clonar o repositório
-git clone https://github.com/Misadri2/medical-assistant-ai.git
+git clone https://github.com/Misadri2/medical-assistant-ai2.git
 cd medical-assistant-ai
 
 # 2) Criar e ativar o ambiente virtual
